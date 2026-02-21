@@ -23,16 +23,14 @@
     { "id": "prod-080c6c72-017", "name": "Premium Item 17", "category": "home", "price": 260.17, "stock": 141, "rating": 2.5 }
   ],
   "aggregations": {
-    "clothing": {
-      "count": 3,
-      "inventoryValue": 121743.38
-    },
-    "electronics": {
-      "count": 1,
-      "inventoryValue": 17051.13
-    }
+    "clothing": { "count": 3, "inventoryValue": 121743.38 },
+    "electronics": { "count": 1, "inventoryValue": 17051.13 },
+    "sports": { "count": 4, "inventoryValue": 133440.55 },
+    "books": { "count": 2, "inventoryValue": 51678.30 },
+    "home": { "count": 7, "inventoryValue": 256985.15 }
   }
 }
+
 
 
 
